@@ -19,7 +19,7 @@ A simple Python script that helps you convert numbers between **decimal** and **
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/yourusername/prime-factor-tool.git
+git clone https://github.com/Darienvibes/prime-factor-tool.git
 cd prime-factor-tool
 
 2. Install Dependencies
